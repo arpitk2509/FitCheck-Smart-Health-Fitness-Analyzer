@@ -10,6 +10,7 @@
 
 ## 📌 Overview
 **FitCheck** is an AI/ML-based Health & Fitness Report Analyzer developed for the **Smart India Hackathon 2025** by **Team VORTEX**. The platform bridges the gap between medical professionals and patients by transforming complex, technical health reports into clear, actionable, and easy-to-understand insights[cite: 6, 7]. 
+![FitCheck Dashboard](dashboard_preview1.png)
 
 ## ✨ Key Features
 * **Multi-Report AI Analysis:** Capable of analyzing Blood Tests, DNA & Genetic Testing, Cardiac Health Screening, and Comprehensive Health Panels.
@@ -18,6 +19,7 @@
 * **Doctor Alert System:** Automatically triggers high-priority alerts for critical values that require immediate medical attention[cite: 6].
 * **Location-Based Healthcare:** Automatically detects the user's location to recommend and provide directions to nearby hospitals and healthcare providers[cite: 6].
 * **FitCheck Prime:** Features premium subscription tiers (Silver, Gold, Platinum) with family sharing and advanced predictive analytics[cite: 6].
+![FitCheck Analysis](dashboard_preview2.png)
 
 ## 🛠️ Technical Approach
 * **Frontend:** Built using HTML, CSS, and JavaScript for a responsive and intuitive user interface[cite: 7].
