@@ -19,7 +19,7 @@
 * **Doctor Alert System:** Automatically triggers high-priority alerts for critical values that require immediate medical attention[cite: 6].
 * **Location-Based Healthcare:** Automatically detects the user's location to recommend and provide directions to nearby hospitals and healthcare providers[cite: 6].
 * **FitCheck Prime:** Features premium subscription tiers (Silver, Gold, Platinum) with family sharing and advanced predictive analytics[cite: 6].
-![FitCheck Analysis](dashboard_preview2.png)
+![FitCheck Analysis](dashboard_preview3.png)
 
 ## 🛠️ Technical Approach
 * **Frontend:** Built using HTML, CSS, and JavaScript for a responsive and intuitive user interface[cite: 7].
